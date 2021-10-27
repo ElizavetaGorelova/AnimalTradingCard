@@ -1,0 +1,45 @@
+.card{
+    width: 300px;
+    border: 5px solid #488fb0;
+    border-radius: 7px;
+    margin: auto;
+    padding: 15px;
+    font-family: sans-serif;
+    font-size: 10px;
+    color: #2b5568;
+}
+.lab{
+    font-weight:bold;
+}
+img{
+box-sizing: border-box;
+width: 300px;
+margin-bottom: 10px;
+border-radius: 5px;
+border: 2px dotted #78bcdb;
+}
+.fact{
+    font-style:italic;
+    text-align:center;
+    line-height:1.4em;
+}
+.span{
+    font-weight:bold;
+}
+.ul{
+    list-style-type:none;
+    margin:0px;
+    padding:0px;
+}
+.info{
+    box-sizing:border-box;
+    background-color: #9ed4ec;
+    border: 1px dotted #78bcdb;
+    border-radius: 5px;
+    border-width: 2px;
+    padding:15px;
+    padding-top: 0;
+    padding-bottom: 0;
+    line-height: 1.4em;
+    margin-bottom:11px;
+}
